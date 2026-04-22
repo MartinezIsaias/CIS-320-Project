@@ -1,3 +1,15 @@
 # CIS-320-Project
 
-<p>This is the course that came before CIS-420. This course was also partnered with Pet4Life non-profit organization and it is a system analysis and design of Pet4Life's desired website.</p>
+<p> Introduces the fundamentals of object-oriented
+analysis and design, including experience with a CASE tool.
+Topics include requirements determination, feasibility analysis,
+modeling with Unified Modeling Language (UML) and data
+dictionary construction, data modeling and normalization, user
+interface requirements specification, and information security
+procedures. Successful completion of this course requires
+development of problem and design specifications for an
+information systems project. Project will be a community-
+based activity for a not-for-profit (NSF) client from the
+Louisville community and will result in a completed systems
+design specification plan for that NSF client. This plan includes
+all the design elements described in the earlier part of this</p>
