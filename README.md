@@ -12,4 +12,5 @@ information systems project. Project will be a community-
 based activity for a not-for-profit (NSF) client from the
 Louisville community and will result in a completed systems
 design specification plan for that NSF client. This project
-develops team skills, written and oral communication skills.</p>
+develops team skills, written and oral communication skills.
+<br> The images files are use case diagrams that I made during the project. </p>
